@@ -1,0 +1,22 @@
+.cell {
+    border: black 0.5px solid;
+    min-height: 12vh;
+    min-width: 10vh;
+    border-radius: 100%;
+}
+
+.circle {
+    height: 100px;
+    background-color: #bbb;
+    border: 1px solid;
+    margin-right: 15px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.button-collection div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
